@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#clock {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+  font-family: "Orbitron", sans-serif;
+  font-size: 200px;
+  cursor: url(/assets/clock-favicon.png) 12 12, auto;
+}
