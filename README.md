@@ -1,6 +1,6 @@
 # simple-digital-clock
 
-A very simple digital clock I made in Orbitron font and in dark mode
+A very simple digital clock.
 
 <u>GIF of UI</u>
 
